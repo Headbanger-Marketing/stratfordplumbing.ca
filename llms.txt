@@ -1,2 +1,25 @@
 # Stratford Plumbing
-HVAC services in Ontario.
+
+> Stratford Plumbing is a local HVAC company serving Stratford, Perth, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 490-0267  |  Email: contact@stratfordplumbing.ca  |  Website: https://stratfordplumbing.ca
+
+## Key pages
+
+- [Home](https://stratfordplumbing.ca/): Stratford Plumbing homepage with service overview and FAQ
+- [About](https://stratfordplumbing.ca/about/): About the company and service area
+- [Contact](https://stratfordplumbing.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://stratfordplumbing.ca/services/water-heaters/): Water Heaters in Stratford, Ontario
+- [Drain Cleaning](https://stratfordplumbing.ca/services/drain-cleaning/): Drain Cleaning in Stratford, Ontario
+- [Repiping](https://stratfordplumbing.ca/services/repiping/): Repiping in Stratford, Ontario
+- [Fixtures & Toilets](https://stratfordplumbing.ca/services/fixtures-toilets/): Fixtures & Toilets in Stratford, Ontario
+- [Leak Detection & Repair](https://stratfordplumbing.ca/services/leak-detection/): Leak Detection & Repair in Stratford, Ontario
+- [Sump Pumps & Backwater](https://stratfordplumbing.ca/services/sump-pumps/): Sump Pumps & Backwater in Stratford, Ontario
+- [Water Softeners & Filtration](https://stratfordplumbing.ca/services/water-softeners/): Water Softeners & Filtration in Stratford, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Stratford are answered on the homepage.
